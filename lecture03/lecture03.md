@@ -10,6 +10,8 @@
   
   ![pic4](/lecture03/pic4.jpg)
 
+  ![pic8](/lecture03/pic8.jpg)
+
 ## APサーバーについて
   - APサーバーの名前とバージョンの確認
     - 名前：Puma  
