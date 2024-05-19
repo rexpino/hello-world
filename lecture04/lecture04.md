@@ -5,7 +5,7 @@
 
   - EC2インバウンドルール
 
-  ![EC2 インバウンドルール](/lecture04/images/EC.jpg)
+  ![EC2 インバウンドルール](/lecture04/images/EC2インバウンドルール.jpg)
 
   - RDSインバウンドルール
 
